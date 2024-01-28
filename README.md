@@ -22,8 +22,26 @@ Estudante de Informática no Instituto Federal de Educação, Ciência e Tecnolo
 
 ### Badges
 
-<b>My GitHub Stats</b>
-<div width="100%" align="left"><a href="http://www.github.com/Andre-06"><img src="https://github-readme-stats.vercel.app/api?username=Andre-06&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Andre-06's GitHub stats" /></a><a href="https://github.com/Andre-06" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-06&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></div>
-<b>Top Repositories</b>
+#### My GitHub Stats
 
-<div width="100%" align="center"><a href="https://github.com/Andre-06/elixir-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-06&repo=elixir-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Andre-06/estudos-js-udemy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-06&repo=estudos-js-udemy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/Andre-06" align="left">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andre-06&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+  <a href="http://www.github.com/Andre-06" align="">
+    <img align="" src="https://github-readme-stats.vercel.app/api?username=Andre-06&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Andre-06's GitHub stats" />
+  </a>
+</div>
+
+#### Top Repositories
+
+<div width="100%" align="center">
+  <a href="https://github.com/Andre-06/elixir-app" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-06&repo=elixir-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/Andre-06/estudos-js-udemy" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-06&repo=estudos-js-udemy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
+  </a>
+</div>
+
+<br /><br /><br /><br /><br /><br /><br />
