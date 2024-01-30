@@ -34,6 +34,6 @@ Estudante de Informática no Instituto Federal de Educação, Ciência e Tecnolo
 
 #### Top Repositories
 
-<div width="100%" align="center"><a href="https://github.com/Andre-06/elixir-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-06&repo=bot-elixir&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Andre-06/estudos-js-udemy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-06&repo=estudos-js-udemy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/Andre-06/bot-elixir" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-06&repo=bot-elixir&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Andre-06/estudos-js-udemy" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Andre-06&repo=estudos-js-udemy&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <br /><br /><br /><br /><br /><br /><br />
