@@ -9,7 +9,9 @@ Estudante de Informática no Instituto Federal de Educação, Ciência e Tecnolo
 
 * 🌍  I'm based in São Paulo - SP
 * ✉️  You can contact me at [andre.arujosilva2006@gmail.com](mailto:andre.arujosilva2006@gmail.com)
+* 🏗️  Current working on [Quicklist](github.com/Andre-06/quicklist) and [Estudos JavaScript](github.com/Andre-06/estudos-js-udemy)
 * 🧠  I'm learning JavaScript / TypeScript
+* ➕  See my profile on Linkedin: [Andre Araujo](linkedin.com/in/andre-araujo-s)
 
 ## Skills
 <p align="left">
